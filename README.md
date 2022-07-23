@@ -11,3 +11,5 @@ chap3 -> https://humdrum-crepe-01f.notion.site/chap-03-67134126fac343729728ea1db
 chap4 -> https://humdrum-crepe-01f.notion.site/Chap-04-44c4252e62a24bb79faba12d72c61180
 
 chap5 -> https://humdrum-crepe-01f.notion.site/chap-05-a91ddd483c6d47578d3f263fef4d9dcd
+
+chap6 -> https://humdrum-crepe-01f.notion.site/chap-06-a6aa323755054cdbaa87db317cc8d5bd
