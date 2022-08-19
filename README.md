@@ -14,4 +14,4 @@ chap5) Clustering analysis -> https://humdrum-crepe-01f.notion.site/chap-05-a91d
 
 chap6) Artificial Neural Network, ANN -> https://humdrum-crepe-01f.notion.site/chap-06-a6aa323755054cdbaa87db317cc8d5bd
 
-chap7) 텍스트 분석(Text Analytics) -> https://humdrum-crepe-01f.notion.site/chap-07-68e063b4ae07425b9faabe4f618d7f62
+chap7) Text Analytics -> https://humdrum-crepe-01f.notion.site/chap-07-68e063b4ae07425b9faabe4f618d7f62
