@@ -2,7 +2,8 @@
 
 Notion Link -> summarize the key concepts.
 
-chap1) Data Science -> https://humdrum-crepe-01f.notion.site/chap-01-c28acc444df34e91b15876cfb5420a6d
+chap1) Data Science -> 
+       https://humdrum-crepe-01f.notion.site/chap-01-c28acc444df34e91b15876cfb5420a6d
 
 chap2) Exploratory Data Analysis-> https://humdrum-crepe-01f.notion.site/chap-02-aeb4b62be5554cf19d5b9e02bef65df2
 
