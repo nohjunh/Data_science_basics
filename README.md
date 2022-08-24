@@ -30,6 +30,10 @@ chap7) Text Analytics ->
        
        https://humdrum-crepe-01f.notion.site/chap-07-68e063b4ae07425b9faabe4f618d7f62
 
+chap8) Network Analysis ->
+
+       https://humdrum-crepe-01f.notion.site/chap-08-82540d49957546839df912fb517c7150
+
 chap9) Data visualization ->
 
        https://humdrum-crepe-01f.notion.site/chap-09-4f9f5c5544b64d5c9ec8b0df52ed47af
