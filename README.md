@@ -10,15 +10,15 @@ chap2) Exploratory Data Analysis->
 
        https://humdrum-crepe-01f.notion.site/chap-02-aeb4b62be5554cf19d5b9e02bef65df2
 
-chap3) linear regression -> 
+chap3) Linear regression -> 
        
        https://humdrum-crepe-01f.notion.site/chap-03-67134126fac343729728ea1db0048c13
 
-chap4) logistic regression analysis -> 
+chap4) Logistic regression Analysis -> 
        
        https://humdrum-crepe-01f.notion.site/Chap-04-44c4252e62a24bb79faba12d72c61180
 
-chap5) Clustering analysis -> 
+chap5) Clustering Analysis -> 
        
        https://humdrum-crepe-01f.notion.site/chap-05-a91ddd483c6d47578d3f263fef4d9dcd
 
