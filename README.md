@@ -10,7 +10,7 @@ chap2) Exploratory Data Analysis->
 
        https://humdrum-crepe-01f.notion.site/chap-02-aeb4b62be5554cf19d5b9e02bef65df2
 
-chap3) Linear regression -> 
+chap3) Linear Regression -> 
        
        https://humdrum-crepe-01f.notion.site/chap-03-67134126fac343729728ea1db0048c13
 
@@ -34,7 +34,7 @@ chap8) Network Analysis ->
 
        https://humdrum-crepe-01f.notion.site/chap-08-82540d49957546839df912fb517c7150
 
-chap9) Data visualization ->
+chap9) Data Visualization ->
 
        https://humdrum-crepe-01f.notion.site/chap-09-4f9f5c5544b64d5c9ec8b0df52ed47af
        
